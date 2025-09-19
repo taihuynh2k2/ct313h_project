@@ -1,3 +1,9 @@
 # ct313h_project
-# Student name: Huỳnh Cao Tài
-# Student id: B2014945
+
+Course: CT313H-Web Technologies and Services.
+
+**Student ID**: B2014945
+
+**Student Name**: Huynh Cao Tai
+
+**Class Number**: ...
