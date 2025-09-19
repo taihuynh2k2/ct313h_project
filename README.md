@@ -1,4 +1,3 @@
 # ct313h_project
-# STUDENT NAME: HUỲNH CAO TÀI
-# STUDENT ID: B2014945
-# PROJECT NAME: RENTAL MANAGEMENT APP
+Student name: Huỳnh Cao Tài
+Student id: B2014945
